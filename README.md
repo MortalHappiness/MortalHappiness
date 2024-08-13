@@ -8,6 +8,6 @@
   Hello! I'm Chi-Sheng Liu
 </h2>
 
-I am an open-source enthusiast and a Committer of the [Apache Submarine](https://github.com/apache/submarine) project, as well as a Contributor of the [Flyte](https://github.com/flyteorg) and [KubeRay](https://github.com/ray-project/kuberay) projects. My skills include full-stack web development, cloud computing, and more. Recently, I have been learning about machine learning topics.
+I am an open-source enthusiast and a Committer of the [Apache Submarine](https://github.com/apache/submarine) and the [Flyte](https://github.com/flyteorg) projects, as well as a Contributor of the [KubeRay](https://github.com/ray-project/kuberay) project. My skills include full-stack web development, cloud computing, and more. Recently, I have been learning about machine learning topics.
 
 Feel free to reach out to me on LinkedIn or via email at chishengliu@chishengliu.com or chishengliu@apache.org.
