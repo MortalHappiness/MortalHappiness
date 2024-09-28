@@ -14,7 +14,7 @@
   An open-source enthusiast
 </h3>
 
-### Contributions
+### Open-Source Contributions
 
 - [KubeRay](https://github.com/ray-project/kuberay) and [Ray](https://github.com/ray-project/ray) Contributor
 - [Flyte](https://github.com/flyteorg) Committer
